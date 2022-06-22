@@ -5,7 +5,7 @@ Here are some instructions to follow the hands-on demo.
 ## Preperations on your host
 
 ```
-xhost -
+xhost +
 ```
 
 disables access control on your XServer. Maybe needed if you don't see a Gazebo Windows opening.
