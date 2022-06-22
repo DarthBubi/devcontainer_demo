@@ -1,5 +1,5 @@
 # This is the development environment
-FROM althack/ros2:foxy-gazebo
+FROM althack/ros2:foxy-gazebo-nvidia
 
 
 # Uncomment this line and add custom packages and dependencies you want to install here.
