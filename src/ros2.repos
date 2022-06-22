@@ -1,0 +1,8 @@
+# List of repositories to use within your workspace
+# See https://github.com/dirk-thomas/vcstool
+repositories:
+  turtlebot3_simulations:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    version: foxy-devel
+  
